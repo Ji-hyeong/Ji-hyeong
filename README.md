@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi, I'm Jihyeong 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ji-hyeong&theme=monokai&show_icons=true)
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jihyeong16)](https://solved.ac/jihyeong16)
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 
 <!--
 **Ji-hyeong/Ji-hyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

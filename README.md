@@ -3,7 +3,7 @@
 🔭 I’m currently working on Samsung SW Academy For Youth 4th.
 <br>
 <br>
-⚡Tech Stack
+⚡<b>Tech Stack</b>
 <br>
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -15,21 +15,21 @@
 <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 <br>
 <br>
-⚡Framework
+⚡<b>Framework</b>
 <br>
 <img alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
 <br>
 <br>
-⚡ETC
+⚡<b>ETC</b>
 <br>
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <br>
 <br>
-⚡Stats
+⚡<b>Stats</b>
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ji-hyeong&theme=monokai&show_icons=true)
 <!--

@@ -1,7 +1,6 @@
- <center>
 ### Hi, I'm JiHyeong 👋
 
-🔭 I’m currently working on Samsung SW Academy For Youth 4th.
+<center>🔭 I’m currently working on Samsung SW Academy For Youth 4th.</center>
 <br/>
 <br/>
 ### ⚡Tech Stack
@@ -32,7 +31,6 @@
 <br/>
 ### ⚡Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ji-hyeong&theme=monokai&show_icons=true)
-</center>
 <!--
 **Ji-hyeong/Ji-hyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
